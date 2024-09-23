@@ -1,2 +1,2 @@
-# js
-This is my project
+# Bootstrap
+This is my frontend project
